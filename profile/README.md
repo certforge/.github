@@ -1,6 +1,5 @@
 <div align="center">
 
-<!-- Replace with hosted logo URL once available -->
 <img src="./certforge-logo.svg" alt="CertForge" width="160"/>
 
 # CertForge
@@ -11,8 +10,8 @@ Open-source certification prep labs for GitHub, cloud & DevOps exams —
 structured by domain weight, built for engineers who learn by doing.
 
 [![GitHub followers](https://img.shields.io/github/followers/certforge?style=flat&color=f97316&labelColor=0f172a)](https://github.com/certforge)
-[![License: MIT](https://img.shields.io/badge/License-MIT-f97316?style=flat&labelColor=0f172a)](LICENSE)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-f97316?style=flat&labelColor=0f172a)](CONTRIBUTING.md)
+[![License: MIT](https://img.shields.io/badge/License-MIT-f97316?style=flat&labelColor=0f172a)](https://github.com/certforge/.github/blob/main/LICENSE)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-f97316?style=flat&labelColor=0f172a)](https://github.com/certforge/.github/blob/main/CONTRIBUTING.md)
 
 </div>
 
@@ -50,7 +49,8 @@ No paywalls. No fluff. Just structured, open content.
 Every CertForge repo follows the same layout so you always know where to look:
 
 ```
-├── README.md               # Exam overview, quick start, 4-week study plan
+├── README.md               # Exam overview, quick start, study plan
+├── CONTRIBUTING.md         # Contribution guidelines
 ├── QUICK-REFERENCE.md      # Printable cheat sheet
 ├── exam-metadata/          # Objectives, domain weights, glossary
 ├── docs/                   # One deep-dive study doc per domain
@@ -77,19 +77,29 @@ All docs include:
 
 CertForge is open to contributions from anyone preparing for or who has passed these exams.
 
-- Found outdated content? Open an issue.
-- Want to add a practice question? Submit a PR.
-- Passed an exam and want to add a new track? Start a discussion.
+### What you can contribute
 
-See [CONTRIBUTING.md](https://github.com/certforge/GH_100_Cert_Prep/blob/main/CONTRIBUTING.md) for guidelines.
+- **Found outdated content?** Open an issue in the relevant repo.
+- **Want to add a practice question?** Follow the [question format](https://github.com/certforge/.github/blob/main/CONTRIBUTING.md#practice-question-format) and submit a PR.
+- **Have a better explanation?** PRs for clarity improvements are always welcome.
+- **Passed an exam and want to add a new track?** [Start a discussion →](https://github.com/orgs/certforge/discussions)
+
+### Contribution workflow
+
+1. **Fork** the repo you want to improve
+2. **Create a branch**: `git checkout -b fix/brief-description`
+3. **Make your changes** following the content standards
+4. **Open a PR** with a clear description of what changed and why
+
+All contribution standards — question format, markdown style, accuracy requirements, and more — are documented in [CONTRIBUTING.md](https://github.com/certforge/.github/blob/main/CONTRIBUTING.md).
 
 ---
 
 ## Content Freshness
 
 All repos include a **Last Updated** date and the **exam version** they cover.
-GitHub certifications evolve — if you spot drift from the current objectives,
-please flag it with a GitHub issue.
+Certifications evolve — if you spot drift from the current objectives,
+please flag it with a GitHub issue in the relevant repo.
 
 ---
 
