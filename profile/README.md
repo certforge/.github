@@ -1,25 +1,25 @@
 <div align="center">
 
-<img src="./certforge-logo.svg" alt="CertForge" width="160"/>
+<img src="./certprep-logo.svg" alt="CertPrep" width="160"/>
 
-# CertForge
+# CertPrep
 
 **Learn. Build. Certify.**
 
 Open-source certification prep labs for GitHub, cloud & DevOps exams —
 structured by domain weight, built for engineers who learn by doing.
 
-[![GitHub followers](https://img.shields.io/github/followers/certforge?style=flat&color=f97316&labelColor=0f172a)](https://github.com/certforge)
-[![License: MIT](https://img.shields.io/badge/License-MIT-f97316?style=flat&labelColor=0f172a)](https://github.com/certforge/.github/blob/main/LICENSE)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-f97316?style=flat&labelColor=0f172a)](https://github.com/certforge/.github/blob/main/CONTRIBUTING.md)
+[![GitHub followers](https://img.shields.io/github/followers/certprep?style=flat&color=f97316&labelColor=0f172a)](https://github.com/certprep)
+[![License: MIT](https://img.shields.io/badge/License-MIT-f97316?style=flat&labelColor=0f172a)](https://github.com/certprep/.github/blob/main/LICENSE)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-f97316?style=flat&labelColor=0f172a)](https://github.com/certprep/.github/blob/main/CONTRIBUTING.md)
 
 </div>
 
 ---
 
-## What is CertForge?
+## What is CertPrep?
 
-CertForge is a community-driven collection of certification prep repositories.
+CertPrep is a community-driven collection of certification prep repositories.
 Each repo maps to a specific exam and contains:
 
 - **Domain-weighted study notes** — proportional depth to exam weighting
@@ -36,17 +36,17 @@ No paywalls. No fluff. Just structured, open content.
 
 | Repo | Exam | Domain Focus | Status |
 |------|------|-------------|--------|
-| [GH_100_Cert_Prep](https://github.com/certforge/GH_100_Cert_Prep) | GH-100: GitHub Administration | Enterprise, Identity, Actions, Security | ✅ Available |
-| [GH_500_Cert_Prep](https://github.com/certforge/GH_500_Cert_Prep) | GH-500: GitHub Advanced Security | Secret Scanning, Dependabot, CodeQL | ✅ Available |
-| [AI-102_Cert_Prep](https://github.com/certforge/AI-102_Cert_Prep) | AI-102: Designing & Implementing Azure AI | Azure AI Services, NLP, Vision, Knowledge Mining | ✅ Available |
+| [GH_100_Cert_Prep](https://github.com/certprep/GH_100_Cert_Prep) | GH-100: GitHub Administration | Enterprise, Identity, Actions, Security | ✅ Available |
+| [GH_500_Cert_Prep](https://github.com/certprep/GH_500_Cert_Prep) | GH-500: GitHub Advanced Security | Secret Scanning, Dependabot, CodeQL | ✅ Available |
+| [AI-102_Cert_Prep](https://github.com/certprep/AI-102_Cert_Prep) | AI-102: Designing & Implementing Azure AI | Azure AI Services, NLP, Vision, Knowledge Mining | ✅ Available |
 
-> More tracks coming. Have a cert you want covered? [Start a discussion →](https://github.com/orgs/certforge/discussions)
+> More tracks coming. Have a cert you want covered? [Start a discussion →](https://github.com/orgs/certprep/discussions)
 
 ---
 
 ## How Content is Structured
 
-Every CertForge repo follows the same layout so you always know where to look:
+Every CertPrep repo follows the same layout so you always know where to look:
 
 ```
 ├── README.md               # Exam overview, quick start, study plan
@@ -75,14 +75,14 @@ All docs include:
 
 ## Contributing
 
-CertForge is open to contributions from anyone preparing for or who has passed these exams.
+CertPrep is open to contributions from anyone preparing for or who has passed these exams.
 
 ### What you can contribute
 
 - **Found outdated content?** Open an issue in the relevant repo.
-- **Want to add a practice question?** Follow the [question format](https://github.com/certforge/.github/blob/main/CONTRIBUTING.md#practice-question-format) and submit a PR.
+- **Want to add a practice question?** Follow the [question format](https://github.com/certprep/.github/blob/main/CONTRIBUTING.md#practice-question-format) and submit a PR.
 - **Have a better explanation?** PRs for clarity improvements are always welcome.
-- **Passed an exam and want to add a new track?** [Start a discussion →](https://github.com/orgs/certforge/discussions)
+- **Passed an exam and want to add a new track?** [Start a discussion →](https://github.com/orgs/certprep/discussions)
 
 ### Contribution workflow
 
@@ -91,7 +91,7 @@ CertForge is open to contributions from anyone preparing for or who has passed t
 3. **Make your changes** following the content standards
 4. **Open a PR** with a clear description of what changed and why
 
-All contribution standards — question format, markdown style, accuracy requirements, and more — are documented in [CONTRIBUTING.md](https://github.com/certforge/.github/blob/main/CONTRIBUTING.md).
+All contribution standards — question format, markdown style, accuracy requirements, and more — are documented in [CONTRIBUTING.md](https://github.com/certprep/.github/blob/main/CONTRIBUTING.md).
 
 ---
 

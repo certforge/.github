@@ -1,9 +1,9 @@
-# Contributing to CertForge
+# Contributing to CertPrep
 
-Thank you for helping improve CertForge study resources.
+Thank you for helping improve CertPrep study resources.
 All contributions that improve accuracy, clarity, or coverage of exam-relevant content are welcome.
 
-> This file covers contribution standards shared across all CertForge repositories.
+> This file covers contribution standards shared across all CertPrep repositories.
 > Each repo may include additional repo-specific notes at the bottom of its own `CONTRIBUTING.md`.
 
 ---
@@ -146,7 +146,7 @@ If you find inaccurate content but cannot fix it, open an issue with:
 ## Security
 
 If you discover a real security issue in this repository, do **not** open a public issue.
-Follow the process in [SECURITY.md](https://github.com/certforge/.github/blob/main/SECURITY.md).
+Follow the process in [SECURITY.md](https://github.com/certprep/.github/blob/main/SECURITY.md).
 
 ---
 
